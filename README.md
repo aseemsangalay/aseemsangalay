@@ -8,9 +8,7 @@ evals, reliability, and the tool boundaries where agents actually break.
 `MCP` · `Pinecone` · `Qdrant` · `LoRA / IA3` · `Playwright` · `Supabase`
 
 ### Projects
-- **mcp-probe** *(in development)* — catches the MCP schema validation
-  failures that pass every local test but make Claude silently skip the tool.
-  [→ follow for updates]
+-  *(in development)* 
 
 ### Research
 - **Fine-tuning LLMs for secure code generation** (FORGE @ ICSE 2024) —
