@@ -30,7 +30,7 @@ Published work used as depth signals — proof that I understand LLMs at the lev
 
 ## Projects
 
-*[PROJECT NAME] — coming soon*
+*coming soon*
 
 
 ---
