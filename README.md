@@ -1,21 +1,40 @@
-# Aseem Sangalay
+**GenAI engineer building production LLM systems — agentic architectures, fine-tuning pipelines, and retrieval infrastructure.**
 
-GenAI engineer. I work on the layer between models and production —
-evals, reliability, and the tool boundaries where agents actually break.
+Three years shipping AI systems to production. My work sits at the intersection of orchestration (LangGraph, MCP), retrieval (Pinecone, RAG), and model behavior (LoRA, IA3, PEFT). I care about the gap between an LLM demo and a system that holds under real conditions — that gap is where most of the engineering actually lives.
 
-### What I work with
-`Anthropic API` · `OpenAI API` · `LangGraph` · `LangSmith` · `FastAPI`  
-`MCP` · `Pinecone` · `Qdrant` · `LoRA / IA3` · `Playwright` · `Supabase`
+---
 
-### Projects
--  *(in development)* 
+## Stack
 
-### Research
-- **Fine-tuning LLMs for secure code generation** (FORGE @ ICSE 2024) —
-  LoRA vs IA3 vs full fine-tuning on 14,622 real C/C++ vulnerability fixes.
-- **An Exploratory Study on Fine-Tuning LLMs for Secure Code Generation**
-  (arXiv 2408.09078)
-- **Software Defect Prediction with AST Features & OO Metrics**
-  (Springer, 2024)
+**Orchestration & Agents:** LangGraph, MCP, Anthropic API  
+**Retrieval:** Pinecone, RAG architectures  
+**Fine-tuning:** LoRA, IA3, PEFT, HuggingFace  
+**Backend:** Python, FastAPI  
+**Frontend / Apps:** Next.js, React Native, Expo, Supabase  
+**Automation:** Playwright, Telethon  
+**Other:** Gemini API, Tavily  
 
-📍 India · 🔗 aseemsangalay.com
+---
+
+## Research
+
+Published work used as depth signals — proof that I understand LLMs at the level that changes how you build them.
+
+- **Fine Tuning Large Language Model for Secure Code Generation** — IEEE/ACM FORGE 2024. Investigated fine-tuning approaches (LoRA, IA3) that reduce LLM tendency to generate vulnerable code. 10 citations. [ACM Digital Library →](https://dl.acm.org/doi/10.1145/3650105.3652299)
+
+- **An Exploratory Study on Fine-Tuning LLMs for Secure Code Generation** — Springer EMSE 2026. Journal extension of the FORGE paper with expanded methodology and findings. [Springer →](https://link.springer.com/article/10.1007/s10664-026-10803-9)
+
+- **Software Defect Prediction Using AST Features and OO Metrics** — Springer book chapter, 2024. Explored AST-level code features as predictors of software defects.
+
+---
+
+## Projects
+
+*[PROJECT NAME] — coming soon*
+
+
+---
+
+📍 Hyderabad, India  
+🌐 [aseemsangalay.com](https://aseemsangalay.com)  
+💼 [linkedin.com/in/aseemsangalay](https://linkedin.com/in/aseemsangalay)
