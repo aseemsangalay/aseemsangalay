@@ -1,32 +1,23 @@
-### Hi there 👋
+# Aseem Sangalay
 
-<!--
-**aseemsangalay/aseemsangalay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GenAI engineer. I work on the layer between models and production —
+evals, reliability, and the tool boundaries where agents actually break.
 
-Here are some ideas to get you started:
+### What I work with
+`Anthropic API` · `OpenAI API` · `LangGraph` · `LangSmith` · `FastAPI`  
+`MCP` · `Pinecone` · `Qdrant` · `LoRA / IA3` · `Playwright` · `Supabase`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **mcp-probe** *(in development)* — catches the MCP schema validation
+  failures that pass every local test but make Claude silently skip the tool.
+  [→ follow for updates]
 
-## Hi there, I'm [Aseem!](https://www.linkedin.com/in/aseemsangalay/) 😄
+### Research
+- **Fine-tuning LLMs for secure code generation** (FORGE @ ICSE 2024) —
+  LoRA vs IA3 vs full fine-tuning on 14,622 real C/C++ vulnerability fixes.
+- **An Exploratory Study on Fine-Tuning LLMs for Secure Code Generation**
+  (arXiv 2408.09078)
+- **Software Defect Prediction with AST Features & OO Metrics**
+  (Springer, 2024)
 
-#### A Diligent Intellectual with an Inquisitive Mind.
-
-- 🔭 I’m currently working on my Data Structures & Algorithms Skills.
-- 🌱 I’m also experienced in Machine Learning, Deep Learning & Transfer Learning.
-- 💬 Reach out to me [here](mailto:aseemsangalay@gmail.com).
-
-## Connect with me  
-<div align="center">
- <a href="https://www.linkedin.com/in/aseemsangalay/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/aseemsangalay" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+📍 India · 🔗 aseemsangalay.com
